@@ -1,0 +1,16 @@
+D:\Gr.6\quiz san\Quiz\obj\Debug\net5.0\Quiz.csproj.AssemblyReference.cache
+D:\Gr.6\quiz san\Quiz\obj\Debug\net5.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gr.6\quiz san\Quiz\obj\Debug\net5.0\Quiz.AssemblyInfoInputs.cache
+D:\Gr.6\quiz san\Quiz\obj\Debug\net5.0\Quiz.AssemblyInfo.cs
+D:\Gr.6\quiz san\Quiz\obj\Debug\net5.0\Quiz.csproj.CoreCompileInputs.cache
+D:\Gr.6\quiz san\Quiz\bin\Debug\net5.0\Quiz.exe
+D:\Gr.6\quiz san\Quiz\bin\Debug\net5.0\Quiz.deps.json
+D:\Gr.6\quiz san\Quiz\bin\Debug\net5.0\Quiz.runtimeconfig.json
+D:\Gr.6\quiz san\Quiz\bin\Debug\net5.0\Quiz.runtimeconfig.dev.json
+D:\Gr.6\quiz san\Quiz\bin\Debug\net5.0\Quiz.dll
+D:\Gr.6\quiz san\Quiz\bin\Debug\net5.0\ref\Quiz.dll
+D:\Gr.6\quiz san\Quiz\bin\Debug\net5.0\Quiz.pdb
+D:\Gr.6\quiz san\Quiz\obj\Debug\net5.0\Quiz.dll
+D:\Gr.6\quiz san\Quiz\obj\Debug\net5.0\ref\Quiz.dll
+D:\Gr.6\quiz san\Quiz\obj\Debug\net5.0\Quiz.pdb
+D:\Gr.6\quiz san\Quiz\obj\Debug\net5.0\Quiz.genruntimeconfig.cache
